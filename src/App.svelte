@@ -6,12 +6,10 @@
 <main>
 	<h1>Hello {name}!</h1>
 	<!-- <p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p> -->
-<Card>
-<div>
-	<img src="https://images.unsplash.com/photo-1596815064285-45ed8a9c0463?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=732&q=80" alt="profile picture" />
-	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium itaque neque assumenda!</p>
-</div>
-</Card>
+	
+	<Card></Card>
+
+
 </main>
 
 <style>
