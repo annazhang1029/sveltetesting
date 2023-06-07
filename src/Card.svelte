@@ -10,11 +10,14 @@
  <style>
     @import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
     .card{
-        box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+        box-shadow: 0px 6px 6px rgba(0,0,0,0.1);
+        padding: 20px;
+        background-color:azure;
     }
 
     .card p{
-        color: red;
+        color: pink;
         font-family: georgia, cursive;
+        font-weight: bold;
     }
 </style>
