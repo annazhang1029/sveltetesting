@@ -15,6 +15,10 @@
         background-color:azure;
     }
 
+    .card img{
+        max-height: 500px;
+    }
+
     .card p{
         color: pink;
         font-family: georgia, cursive;
