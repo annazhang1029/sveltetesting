@@ -11,7 +11,7 @@
         background-color: azure;
         width: 100%;
         margin-top: -10px;
-        padding: 16px 30px;
+        padding: 0 16px;
     }
     nav a{
         text-decoration: none;
@@ -19,10 +19,11 @@
         display: inline-block;
         font-weight: bold;
         font-size: 18px;
+        padding: 18px;
     }
 
     nav a:hover{
-        color: beige;
+        background-color: beige;
     }
 
     nav a:active{
